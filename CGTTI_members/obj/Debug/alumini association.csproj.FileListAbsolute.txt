@@ -1,0 +1,40 @@
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\bin\Debug\alumini association.exe.config
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\bin\Debug\alumini association.exe
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\bin\Debug\alumini association.pdb
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\obj\Debug\alumini association.csproj.AssemblyReference.cache
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\obj\Debug\alumini_association.Properties.Resources.resources
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\obj\Debug\alumini association.csproj.GenerateResource.cache
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\obj\Debug\alumini association.csproj.CoreCompileInputs.cache
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\obj\Debug\alumini association.exe
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\obj\Debug\alumini association.pdb
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\obj\Debug\alumini_association.Admin_registration.resources
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\obj\Debug\alumini_association.All_members.resources
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\obj\Debug\alumini_association.Form1.resources
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\obj\Debug\alumini_association.main_window.resources
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\obj\Debug\alumini_association.Members_registration.resources
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\bin\Debug\alumini.mdf
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\bin\Debug\alumini_log.ldf
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\bin\Debug\alumini association.exe.manifest
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\bin\Debug\alumini association.application
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\obj\Debug\alumini association.exe.manifest
+C:\Users\tlakm\Videos\vs\ict project\alumini association\alumini association\obj\Debug\alumini association.application
+D:\vs\ict project\alumini association\alumini association\bin\Debug\alumini.mdf
+D:\vs\ict project\alumini association\alumini association\bin\Debug\alumini_log.ldf
+D:\vs\ict project\alumini association\alumini association\bin\Debug\alumini association.exe.config
+D:\vs\ict project\alumini association\alumini association\bin\Debug\alumini association.exe.manifest
+D:\vs\ict project\alumini association\alumini association\bin\Debug\alumini association.application
+D:\vs\ict project\alumini association\alumini association\bin\Debug\alumini association.exe
+D:\vs\ict project\alumini association\alumini association\bin\Debug\alumini association.pdb
+D:\vs\ict project\alumini association\alumini association\obj\Debug\alumini association.csproj.AssemblyReference.cache
+D:\vs\ict project\alumini association\alumini association\obj\Debug\alumini_association.Admin_registration.resources
+D:\vs\ict project\alumini association\alumini association\obj\Debug\alumini_association.All_members.resources
+D:\vs\ict project\alumini association\alumini association\obj\Debug\alumini_association.Form1.resources
+D:\vs\ict project\alumini association\alumini association\obj\Debug\alumini_association.main_window.resources
+D:\vs\ict project\alumini association\alumini association\obj\Debug\alumini_association.Members_registration.resources
+D:\vs\ict project\alumini association\alumini association\obj\Debug\alumini_association.Properties.Resources.resources
+D:\vs\ict project\alumini association\alumini association\obj\Debug\alumini association.csproj.GenerateResource.cache
+D:\vs\ict project\alumini association\alumini association\obj\Debug\alumini association.csproj.CoreCompileInputs.cache
+D:\vs\ict project\alumini association\alumini association\obj\Debug\alumini association.exe.manifest
+D:\vs\ict project\alumini association\alumini association\obj\Debug\alumini association.application
+D:\vs\ict project\alumini association\alumini association\obj\Debug\alumini association.exe
+D:\vs\ict project\alumini association\alumini association\obj\Debug\alumini association.pdb
